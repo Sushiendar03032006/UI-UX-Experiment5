@@ -48,6 +48,9 @@ The UX Design Experiment aims to address critical user experience issues in two 
   • Reduce abandonment rates during task completion.
   • Foster trust and repeat usage of both app and web services.
 
+ <img width="1536" height="1024" alt="ChatGPT Image Nov 13, 2025, 12_42_47 AM" src="https://github.com/user-attachments/assets/05f6c733-8bc3-4329-88a3-5dd62fe33520" />
+
+
 ## Result:
 - Health App: Integrated tracking and personalized tips improved user engagement.
 - Gov Portal: Simplified design and clearer language enhanced usability.
